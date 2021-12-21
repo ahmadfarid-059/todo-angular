@@ -1,7 +1,7 @@
 # Angular Todo List
 
 ## Description: 
-A todo list app which is built with Angular JS frame work that allows users to add or delete a task
+A todo list app which is built with Angular JS frame work that allows users to add or delete a task. The app interacts with a fake JSON server.
 
 ## Running The App
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
